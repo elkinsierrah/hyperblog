@@ -1,12 +1,7 @@
-Esto es un título
+Esta es la historia de Freddy Vega
 
-Esto es un título centrado
+Freddy Vega tiene 32 años y nació en Colombia
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
+Anita Platzi tiene 41 años y nació en Internet
 
-
-Y esto de arriba es la foto de unas Suricatas.
-
-Un nuevo commmit
-Hoy hablaremos de su vida
-Cambios de maestria
+Mañana nos enfocaremos en su vida laboral
